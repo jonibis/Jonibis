@@ -30,12 +30,3 @@
    <img src="https://img.shields.io/badge/Python-%23F7DF1E?style=for-the-badge&logo=Paython&logoColor=white&labelColor=0d0d0d" />
 </p>
 
-
----
-
-```bash
-👤 Classe: Undead Developer
-⚔️ Build: Full Stack Knight (React ⚔️ Node.js)
-🔥 Bonfire: VS Code
-📍 Região: Lordran / GitHub
-
