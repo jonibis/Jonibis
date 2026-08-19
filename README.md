@@ -1,3 +1,4 @@
+
 <div align="center">
   <img width="296" height="296" alt="giphy" src="https://github.com/user-attachments/assets/cc28e0c6-e3d5-477d-8b7d-e8bd0a9a06b3" />
 </div>
@@ -49,12 +50,10 @@
 </div>
 
 <!--Timeline-->
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/pedro09joaopedro">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedro09joaopedro&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
-
