@@ -49,11 +49,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="54" alt="mysql logo"  />
 </div>
 
-<!--Timeline-->
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/pedro09joaopedro">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedro09joaopedro&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
