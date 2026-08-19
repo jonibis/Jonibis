@@ -9,11 +9,11 @@
 
 <P>
   
-  Hi, I´m João! Systems Analysis and Development student in Brazil.
+  🤠Hi, I´m João! Systems Analysis and Development student in Brazil.
   
-  - I am currently studying Systems Analysis and Development at the Adventist University of São Paulo.
+  - 🤓I am currently studying Systems Analysis and Development at the Adventist University of São Paulo.
 
-  - I am looking for a job in the field. My dream is to be recognized for my work.
+  - 🙂I am looking for a job in the field. My dream is to be recognized for my work.
 
   - 💬 I am 19 years old, currently living in Brazil. I have an intermediate level of English.
 
