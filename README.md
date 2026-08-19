@@ -1,32 +1,16 @@
+<!--titulo-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Transparent&color=A30D0D&height=100&section=header&text=:3&fontColor=F7DF1E&fontSize=60&animation=fadeIn&effect=blur" />
-</p>
-
-
-<div align="center">
-
-  <spam style="font-size:20px">
-    <br>
-     <b> Hi, João Amorim Here! </b> 
-  </spam>
-
-  <div>
-  <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A30D0D&width=900&size=30&center=true&lines=I+am+from+Brazil;Be+welcome!" alt="Typing SVG"/>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi Guys</h1></summary>
 </div>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonibis&theme=darcula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonibis&theme=darcula) |
-| :-: | :-: |
+<!-- apresentação -->
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<div>
-  <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A30D0D&width=900&size=30&center=true&lines=Minhas+linguagens;" alt="Typing SVG"/>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Python-%23F7DF1E?style=for-the-badge&logo=Paython&logoColor=white&labelColor=0d0d0d" />
-</p>
-
+###
