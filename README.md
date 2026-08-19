@@ -21,18 +21,6 @@
   
 </P>
 
-<!-- Minhas Redes -->
-# About me
-
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/joão-amorim-b58176274" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
- <p>All the ways to get in touch with me!</p>
-
 <!--Habilidades-->
 # I Code With
 <div data-importer="techs" align="center">
